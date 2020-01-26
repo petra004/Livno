@@ -49,7 +49,7 @@
             
             <td>
                 
-             <p> <em><strong>< span id="LIVNOO"> Livno je grad u jugozapadnom dijelu Bosne i Hercegovine.</span> </strong>
+             <p> <em><strong><span id="LIVNOO"> Livno je grad u jugozapadnom dijelu Bosne i Hercegovine. </span></strong>
                  Najznačajniji je grad u Hercegbosanskoj županiji, čije je kulturno i gospodarsko središte,
                   te je drugi po veličini grad s većinskim hrvatskim stanovništvom u Bosni i Hercegovini.
                   Grad leži na 724 m nadmorske visine na istoku centralnog dijela Livanjskog polja, 
