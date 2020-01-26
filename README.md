@@ -25,7 +25,7 @@
         }
         #kraj{
             background-color: #333;
-            width:70%;
+            width:687%;
             padding:7px;
         }
         #LIVNOO{
@@ -65,7 +65,7 @@
             
             </table>    
                   
-            <p> <div id="kraj" class="tekst">Pročitajte više na Pročitajte više na<a  href="https://hr.wikipedia.org/wiki/Livno">Wikipedia</a></div></p> 
+            <p> <div id="kraj" class="tekst">Pročitajte više na Pročitajte više na<a  href="https://hr.wikipedia.org/wiki/Livno"> Wikipedia</a></div></p> 
                                
 </body>
 </html>
