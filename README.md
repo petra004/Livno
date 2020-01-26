@@ -25,7 +25,7 @@
         }
         #kraj{
             background-color: #333;
-            width:687%;
+            width:70%;
             padding:7px;
         }
         #LIVNOO{
