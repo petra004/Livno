@@ -9,10 +9,7 @@
         #naslov{
             background-color: rgb(180,205,228);
             width:101%;
-        }
-        .naslov2{
-            font-family: helvetica,sans-serif;
-        }
+      
          .tablica{
             background-color:rgb(180,205,228);
         }
@@ -64,7 +61,7 @@
             </td>
             
             </table>    
-                  
+                  </div>
             <p> <div id="kraj" class="tekst">Pročitajte više na Pročitajte više na<a  href="https://hr.wikipedia.org/wiki/Livno"> Wikipedia</a></div></p> 
                                
 </body>
