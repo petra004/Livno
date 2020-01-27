@@ -59,10 +59,10 @@
                  Ljeta su mahom duga i sunčana (2008: 2.474 sati), zime snježne.
                  </em></p>
             </td>
-            
+            </thead>
             </table>    
                   </div>
-            <p> <div id="kraj" class="tekst">Pročitajte više na Pročitajte više na<a  href="https://hr.wikipedia.org/wiki/Livno"> Wikipedia</a></div></p> 
+             <div id="kraj" class="tekst">Pročitajte više na Pročitajte više na<a  href="https://hr.wikipedia.org/wiki/Livno"> Wikipedia</a></div>
                                
 </body>
 </html>
